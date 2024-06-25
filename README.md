@@ -9,6 +9,7 @@ Overview of the project:
 
 Project: Chat Application
 
+![Screenshot (19)](https://github.com/teju1906/CODTECH.task1/assets/173791327/aa8dbd37-f174-46d3-bda0-6eb48db5d8ff)
 objective:
 The objective of this project is to demonstrate basic implementation of a chat application using HTML, CSS, and JavaScript. It showcases how user input can be processed and responded to using predefined patterns, mimicking a conversation between a user and a bot.
 
